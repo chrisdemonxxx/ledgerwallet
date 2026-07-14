@@ -1,2 +1,0 @@
-# ads.txt — Ledger Security Devices
-google.com, pub-5942139808595721, DIRECT, f08c47fec0942fa0
