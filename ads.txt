@@ -1,0 +1,3 @@
+# ads.txt — Ledger Security Devices
+# Replace the publisher ID below with your Google AdSense / Ad Manager ID
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
